@@ -38,6 +38,9 @@ layout: default
 #### LAPD
 * Mayor's words do not align with police action. [youtube video](https://www.youtube.com/watch?v=dymj5To1DLs)
 
+#### Louisville PD
+* Louisville PD left the body of David McAtee, a black man who fed the local police for free, on the street for 12 hours [article, the intercept](https://theintercept.com/2020/06/01/louisville-police-left-the-body-of-david-mcatee-on-the-street-for-12-hours/)
+
 #### Minneapolis Police
 * Minneapolis police shot at people filming them on their own balconies.
 
