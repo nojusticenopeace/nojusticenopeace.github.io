@@ -31,6 +31,8 @@ On the frontlines:
 - Nick Cannon
 - Tessa Thompson
 
+ESPN's Maria Taylor [comments on tv](https://twitter.com/iam_johnw/status/1268924294006034441?s=20)
+
 ### opposing, silence, or lipservice
 
 San Jose mayor, Sam Liccardo in response to peaceful protests _[link](https://medium.com/@SamLiccardo/i-cant-breathe-17684b68309f)_
