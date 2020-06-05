@@ -80,3 +80,5 @@ Shameik Moore
 Mike Lee, Senator of Utah
 - "Just heard that Mayor Bowser is kicking the Utah National Guard out of all DC hotels tomorrow. More than 1200 troops from 10 states are being evicted. This is unacceptable." [tweet](https://twitter.com/SenMikeLee/status/1268756501516050432)
 - 3rd amendment: No Soldier shall, **in time of peace** be quartered in any house, without the consent of the Owner, nor in time of war, but in a manner to be prescribed by law.
+
+Lush owner gives cops care packages [screenshots](https://twitter.com/GhostlySpells/status/1268882821210398720?s=20)
