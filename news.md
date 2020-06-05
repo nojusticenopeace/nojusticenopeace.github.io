@@ -58,6 +58,7 @@ layout: default
 #### Towards the media
 * Everywhere, journalists are being indiscriminately targeted and arrested. A Minneapolis photojournalist is blinded permanently in one eye after being hit by a less lethal round.
 * United States added to list of most dangerous countries for journalists for first time. This is from 2018 [article, nbcnews](https://www.nbcnews.com/news/world/united-states-added-list-most-dangerous-countries-journalists-first-time-n949676?)
+* CNN black and latino report Omar Jimenez arrested by officers on 5.29. Another white CNN journalist, Josh Campbell, who was not far away was treated very differently [article, cnn](https://www.cnn.com/us/live-news/george-floyd-protest-updates-05-28-20/h_9023ffd063def0b1af22cb3ecdc72a06)
 
 #### Defund the police
 - What a World Without Cops Would Look Like [article, mother jones](https://www.motherjones.com/crime-justice/2020/06/police-abolition-george-floyd/)
