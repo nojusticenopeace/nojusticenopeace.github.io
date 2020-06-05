@@ -4,16 +4,34 @@ layout: default
 
 ## News
 
-#### UCLA
+### Police Brutality
 
-##### Jackie Robinson Stadium used as field jail
+260+ tweets with videos of unprovoked violence by the police on peaceful protestors [tweet](https://twitter.com/trevortimm/status/1268621018857213954)
+
+### UCLA
+
+#### Jackie Robinson Stadium used as field jail
 allegedly done without UCLA's knowledge or permissoin
-[tweet](https://twitter.com/UCLA/status/1268039753015812096?s=20)
+[ucla statement](https://twitter.com/UCLA/status/1268039753015812096?s=20)
 
-##### Professor Gordon Klein
+#### Professor Gordon Klein
 mocked students for asking he "give black students special treatment, given the tragedy in Minnesota."
 [petition](http://chng.it/DcX7pKwmC8)
 
-#### Buffalo PD - Aaron Torgalski
+### Buffalo PD - Aaron Torgalski
 one of the officers that shoved and gave a serious head wound to a peaceful protester
 [tweet](https://twitter.com/donwinslow/status/1268725675600429063?s=20)
+
+### Denver PD - Thomas McClay
+the officer, who posted on instagram with caption "Let's start a riot", has been fired
+[article](https://denver.cbslocal.com/2020/06/02/denver-police-officer-fired-instagram-post/)
+
+### NFL
+tone deaf statement by the nfl, who has never acknowledged colin kaepernick's peaceful statement [nfl statement](https://twitter.com/NFL/status/1266852547890839552)
+washington redskins posted black square on #blackouttuesday 
+bills rookie qb jake fromm says guns should be expensive "so only elite white people can get them haha" [screenshots](https://twitter.com/MusikFan4Life/status/1268608999122968577?s=20)
+drew brees
+
+### NBA
+fox news newscaster laura ingraham to lebron and kd: "shut up and dribble!" but approves of drew brees [video](https://twitter.com/ComplexSports/status/1268551040074383361)
+
