@@ -17,9 +17,19 @@ Van Jones, CNN news commentator _[(video)](https://twitter.com/Jaxlzz/status/126
 Taylor Swift _[(tweet)](https://twitter.com/taylorswift13/status/1266392274549776387)_
 > After stoking the fires of white supremacy and racism your entire presidency, you have the nerve to feign moral superiority before threatening violence? ‘When the looting starts the shooting starts’??? We will vote you out in November. @realdonaldtrump
 
-Killer Mike Delivers Emotional Speech to Atlanta Protestors at Mayor’s Press Conference _[(article, rolling stone)](https://www.rollingstone.com/music/music-news/killer-mike-speech-atlanta-protestors-press-conference-1007816/)_
-
 Bratz _[(instagram)](https://www.instagram.com/p/CA1kakTJdr7/)_
+
+On the frontlines:
+- Ariana Grande
+- J. Cole
+- Jamie Foxx
+- Senator Kamala Harris
+- Jaylen Brown
+- Karl Anthony Towns
+- Kendrick SAmpson
+- John Cusack
+- Nick Cannon
+- Tessa Thompson
 
 ### opposing, silence, or lipservice
 
