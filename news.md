@@ -52,6 +52,13 @@ layout: default
 * Everywhere, journalists are being indiscriminately targeted and arrested. A Minneapolis photojournalist is blinded permanently in one eye after being hit by a less lethal round.
 * United States added to list of most dangerous countries for journalists for first time. This is from 2018 [article, nbcnews](https://www.nbcnews.com/news/world/united-states-added-list-most-dangerous-countries-journalists-first-time-n949676?)
 
+#### Defund the police
+- What a World Without Cops Would Look Like [article, mother jones](https://www.motherjones.com/crime-justice/2020/06/police-abolition-george-floyd/)
+- For a world without police [organization](http://aworldwithoutpolice.org/)
+- Minneapolis City Council members consider disbanding the police [article, citypages](http://www.citypages.com/news/minneapolis-city-council-members-consider-disbanding-the-police/570993291)
+- Movement to defund police gains 'unprecedented' support across US. Activists say the way to stop police brutality and killings is to cut law enforcement budgets and reinvest in services. Some lawmakers now agree [article, the guardian](https://www.theguardian.com/us-news/2020/jun/04/defund-the-police-us-george-floyd-budgets)
+- What Does Defunding The Police Mean? [article, bustle](https://www.bustle.com/p/what-does-defunding-the-police-mean-22956886)
+
 ### UCLA
 
 #### Jackie Robinson Stadium used as field jail
@@ -78,12 +85,6 @@ layout: default
 ### 45
 - Peaceful Protesters Tear-Gassed To Clear Way For Trump Church Photo-Op [article, npr](https://www.npr.org/2020/06/01/867532070/trumps-unannounced-church-visit-angers-church-officials?)
   - photo-op was not approved by the church ahead of time
-
-### Defunding the police
-- What a World Without Cops Would Look Like [article, mother jones](https://www.motherjones.com/crime-justice/2020/06/police-abolition-george-floyd/)
-- For a world without police [organization](http://aworldwithoutpolice.org/)
-- Minneapolis City Council members consider disbanding the police [article, citypages](http://www.citypages.com/news/minneapolis-city-council-members-consider-disbanding-the-police/570993291)
-- Movement to defund police gains 'unprecedented' support across US. Activists say the way to stop police brutality and killings is to cut law enforcement budgets and reinvest in services. Some lawmakers now agree [article, the guardian](https://www.theguardian.com/us-news/2020/jun/04/defund-the-police-us-george-floyd-budgets)
 
 ### Internationally
 - NSW Police taking organisers of Sydney Black Lives Matter protest to Supreme Court [article, sydney morning herald](https://www.smh.com.au/national/nsw/nsw-police-taking-organisers-of-sydney-black-lives-matter-protest-to-supreme-court-20200605-p54zw8.html)
