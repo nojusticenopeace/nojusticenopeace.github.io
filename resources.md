@@ -16,6 +16,8 @@ layout: default
 - require use of force continuum
 - require comprehensive reporting
 
+Move IQA World Cup elsewhere _[(link)](https://docs.google.com/document/d/1Vh-srBbjIHvO4Goq723i-9OcOn8htiksalW6HNpsns0/edit)_
+
 ### where to donate
 
 Bail bonds _[(link)](https://bailbonds.github.io)_
