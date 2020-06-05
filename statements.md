@@ -11,6 +11,9 @@ Ben & Jerry's _[(statement)](https://www.benjerry.com/about-us/media-center/dism
 
 John Boyega spoke in London _[(youtube)](https://www.youtube.com/watch?v=GGXEB25WdyQ)_
 
+Van Jones, CNN news commentator _[(video)](https://twitter.com/Jaxlzz/status/1266365670851215360?s=20)
+> it's the white, liberal, HRC supporter walking her dog in central park, the minute she sees a black man, who she does not respect or who she has a slight thought against, she weaponizes race like she's been trained by the aryan nation
+
 ### opposing, silence, or lipservice
 
 San Jose mayor, Sam Liccardo in response to peaceful protests _[link](https://medium.com/@SamLiccardo/i-cant-breathe-17684b68309f)_
