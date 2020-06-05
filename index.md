@@ -6,6 +6,8 @@ layout: default
 
 _these are just some of the black americans whose lives were stolen_
 
+David McAtee -- _5.31.2020 / louisville, kentucky_
+
 Tony McDade -- _5.27.2020 / tallahassee, florida_
 
 **George Floyd -- _5.25.2020 / minneapolis, minnesota_**
