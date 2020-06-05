@@ -47,3 +47,7 @@ Santana
 
 Tom Cotton, US Senator candidate for AR
 - "And, if necessary, the 10th Mountain, 82nd Airborne, 1st Cav, 3rd Infantry—whatever it takes to restore order. No quarter for insurrectionists, anarchists, rioters, and looters." [tweet](https://twitter.com/TomCottonAR/status/1267459561675468800?s=20)
+
+Facebook/Mark Zuckerberg
+- No action on 45 posts [article, cbs news](https://www.cbsnews.com/news/mark-zuckerberg-defends-trump-facebook-posts-walkout/)
+- Facebook employees walk out virtually in protest
