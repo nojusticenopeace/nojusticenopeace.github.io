@@ -6,12 +6,13 @@ layout: default
 
 ### Thur 6.4.2020
 #### He's 75
-* On 6.4, while enforcing the 8pm curfew, Aaron Torgalski (Buffalo PD) pushed a 75-year old white man to the ground in Niagara Square. He fell backwards, hit his head, and starts bleeding immediately motionless.
+* On 6.4, while enforcing the 8pm curfew, Aaron Torgalski (Buffalo PD) pushed a 75-year old white man to the ground in Niagara Square. He fell backwards, hit his head, and starts bleeding immediately motionless. He is in serious condition.
 * Buffalo PD officers continued walking past while he was bleeding out onto the ground. One officer bent down to see how he was doing and the officer who pushed him grabbed the second officer and pushed him away.
 * Buffalo PD claims the man "tripped and fell".
 * In the footage, the man was holding a riot helmet, seemingly trying to return the helmet to the officers before he was pushed to the ground.
 * [footage](https://twitter.com/JordanUhl/status/1268717966532792325?s=20)
 * Internal Affairs at Buffalo PD is 716-851-4557.
+* As of 6.4 8.00pm PT, 2 officers have been suspended without pay, not fired. [source](https://www.buzzfeednews.com/article/salvadorhernandez/buffalo-police-video-man-pushed)
 
 ### Wed 6.3.2020
 #### #HisNameIsJustinHowell.
