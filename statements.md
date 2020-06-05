@@ -9,6 +9,8 @@ layout: default
 Ben & Jerry's _[(statement)](https://www.benjerry.com/about-us/media-center/dismantle-white-supremacy)_ 
 * Co-founders arrested during protest in DC _[(article, people)](https://people.com/crime/ben-jerrys-co-founders-arrested-during-protest/)
 
+John Boyega spoke in London _[(youtube)](https://www.youtube.com/watch?v=GGXEB25WdyQ)
+
 ### opposing, silence, or lipservice
 
 San Jose mayor, Sam Liccardo in response to peaceful protests _[link](https://medium.com/@SamLiccardo/i-cant-breathe-17684b68309f)_
