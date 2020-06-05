@@ -8,6 +8,13 @@ layout: default
 
 Bail bonds _[(link)](https://bailbonds.github.io)_
 
+#### Watch YouTube Videos
+
+* _[(video)](https://www.youtube.com/watch?v=bCgLa25fDHM&fbclid=IwAR01zkG7laK50tgcbgv3vD-NJiLvMuyXGSA4bXOtN6q6Ujb7RshFx8AGLXo)_
+
+* _[(links to more videos)](https://twitter.com/iDiminies/status/1267550974190764033)_
+
+
 ### tools
 
 Police scanner map _[(link)](https://scanmap.frnsys.com)_
@@ -21,6 +28,10 @@ Resistbot _[(link)](https://resist.bot/)
 _contact representations via text_
 
 Just Mercy film, watch for free _[(link)](https://www.justmercyfilm.com/)_
+
+Guide to Allyship _[(link)](https://docs.google.com/document/d/1CIfMQED_B444Y-K8kAqUOgq8xrSFdSrjFBRnyK6wmz4/edit?)_
+
+
 
 ### protesting
 
