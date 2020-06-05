@@ -51,6 +51,8 @@ California salaries _[(link)](https://transparentcalifornia.com/salaries/)_
 
 Santa Clara county officer holders list _[(link)](https://www.sccgov.org/sites/rov/Info/Documents/Office-Holders-List.pdf)
 
+100+ black owned etsy shops _[(link)](https://themadmommy.com/black-owned-etsy-shops/)_
+
 ### protesting
 
 Bay Area protest calendar _[(link)](https://www.actiontogetherbayarea.org/calendar)
