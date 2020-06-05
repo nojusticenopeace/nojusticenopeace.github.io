@@ -21,3 +21,11 @@ Ramona Singer
 Unknown person in DC
 - Assaulted minors peacefully putting up signs on 6/1 [footage](https://twitter.com/AnnaAkana/status/1268645784758521856?s=20)
 - Park police is seeking assistance in identifying the man [tweet](https://twitter.com/ParkPolice/status/1267928083836948484?s=20)
+
+Drew Brees
+- In interview, he said:
+> "I will never agree with anybody disrespecting the flag of the United States of America or our country. Let me just tell what I see or what I feel when the national anthem is played and when I look at the flag of the United States. I envision my two grandfathers, who fought for this country during World War II, one in the Army and one in the Marine Corp. Both risking their lives to protect our country and to try to make our country and this world a better place. So every time I stand with my hand over my heart looking at that flag and singing the national anthem, that’s what I think about ...
+> "... And is everything right with our country right now? No, it is not. We still have a long way to go. But I think what you do by standing there and showing respect to the flag with your hand over your heart, is it shows unity. It shows that we are all in this together, we can all do better and that we are all part of the solution.”
+- apology #1 [instagram](https://www.instagram.com/p/CA-aQwGnILy/)
+- apology #2 [instagram](https://www.instagram.com/p/CBA1P3gHpT_/)
+- apology #3 [instagram](https://www.instagram.com/p/CBCIljGngKI/)
