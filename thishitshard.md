@@ -8,6 +8,12 @@ layout: default
 #### Happy Birthday Breonna Taylor
 * She would have been 27
 
+#### LAPD fires rubber bullets at homeless man's head
+* On 6.4, LAPD fired rubber bullets at a homeless man in a wheelchair. He was not a part of the protest.
+* [graphic images](https://www.reddit.com/r/Bad_Cop_No_Donut/comments/gx2iyc/lapd_shoots_less_than_lethal_rounds_directly_at/)
+* [graphic image](https://i.redd.it/q6gzqnqdj2351.jpg)
+* [petition to end qualified immunity](https://www.change.org/p/united-states-supreme-court-end-qualified-immunity-0f4e3cca-05e8-4bc7-a77a-180fd42c847b)
+
 ### Thur 6.4.2020
 #### He's 75
 * On 6.4, while enforcing the 8pm curfew, Aaron Torgalski (Buffalo PD) pushed a 75-year old white man to the ground in Niagara Square. He fell backwards, hit his head, and starts bleeding immediately motionless. He is in serious condition.
