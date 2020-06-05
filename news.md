@@ -41,3 +41,7 @@ layout: default
 
 ### Qualified immunity
 * police act like laws don't apply to them because of 'qualified immunity.' they're right. [article, usa today](https://www.usatoday.com/story/opinion/2020/05/30/police-george-floyd-qualified-immunity-supreme-court-column/5283349002/)
+
+### 45
+- Peaceful Protesters Tear-Gassed To Clear Way For Trump Church Photo-Op [article, npr](https://www.npr.org/2020/06/01/867532070/trumps-unannounced-church-visit-angers-church-officials?)
+  - photo-op was not approved by the church ahead of time
