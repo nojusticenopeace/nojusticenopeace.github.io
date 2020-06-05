@@ -47,3 +47,8 @@ layout: default
 ### 45
 - Peaceful Protesters Tear-Gassed To Clear Way For Trump Church Photo-Op [article, npr](https://www.npr.org/2020/06/01/867532070/trumps-unannounced-church-visit-angers-church-officials?)
   - photo-op was not approved by the church ahead of time
+  
+### Defunding the police
+- What a World Without Cops Would Look Like [article, mother jones](https://www.motherjones.com/crime-justice/2020/06/police-abolition-george-floyd/)
+- For a world without police [organization](http://aworldwithoutpolice.org/)
+- Minneapolis City Council members consider disbanding the police [article, citypages](http://www.citypages.com/news/minneapolis-city-council-members-consider-disbanding-the-police/570993291)
