@@ -95,6 +95,7 @@ layout: default
   - photo-op was not approved by the church ahead of time
 - Hid in a bunker (#BunkerBoy on Twitter)
 - Cuts ties with WHO amid a pandemic [article, cnbc](https://www.cnbc.com/2020/05/29/trump-says-the-us-will-cut-ties-with-world-health-organization.html)
+- Anonymous reveals that 45 and Epstein convicted of the largest childtrafficking organization [article, forbes](https://www.forbes.com/sites/daveywinder/2020/06/02/trumps-dirty-laundry-anonymous-hackers-threaten-to-reveal-all-george-floyd-protest/#6b071ddb1fc3)
 
 ### Internationally
 - NSW Police taking organisers of Sydney Black Lives Matter protest to Supreme Court [article, sydney morning herald](https://www.smh.com.au/national/nsw/nsw-police-taking-organisers-of-sydney-black-lives-matter-protest-to-supreme-court-20200605-p54zw8.html)
