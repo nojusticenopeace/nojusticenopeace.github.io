@@ -14,6 +14,7 @@ layout: default
 #### Buffalo PD - Aaron Torgalski
 * one of the officers that shoved and gave a serious head wound to a peaceful protester
 [tweet](https://twitter.com/donwinslow/status/1268725675600429063?s=20)
+* [article, the hill](https://thehill.com/homenews/state-watch/501279-elderly-man-appears-unconscious-bleeding-from-ear-after-shoved-to-ground)
 
 #### Denver PD - Thomas McClay
 * the officer, who posted on instagram with caption "Let's start a riot", has been fired
