@@ -44,3 +44,6 @@ Desi
 B. Simone
 
 Santana
+
+Tom Cotton, US Senator candidate for AR
+"And, if necessary, the 10th Mountain, 82nd Airborne, 1st Cav, 3rd Infantry—whatever it takes to restore order. No quarter for insurrectionists, anarchists, rioters, and looters." [tweet](https://twitter.com/TomCottonAR/status/1267459561675468800?s=20)
