@@ -8,21 +8,47 @@ layout: default
 
 260+ tweets with videos of unprovoked violence by the police on peaceful protestors [tweet](https://twitter.com/trevortimm/status/1268621018857213954)
 
-#### NYPD pepper sprays NY state senator
-* state senator zellnor myrie (d-brooklyn) was pepper sprayed and handcuffed at barclays center protest [news12 the bronx article](http://bronx.news12.com/story/42192118/state-senator-says-he-was-pepper-sprayed-handcuffed-at-barclays-protest?fbclid=IwAR0RZZnjylWHhbmhqxoqzHBieeITZbx-5o7cooxIUBv3SrrySFtefCeONWc)
+#### Atlanta PD
+* An Atlanta couple last night had their tires slashed, windows broken, and were dragged out of their car and tazed.
+
+#### Austin PD
+* Austin police have killed a young man by shooting him in the head with bird shot rounds wrapped in cloth, and continued to shoot the medics carrying his body. They shot a known pregnant woman in the stomach, then stormed and abducted her from a medic tent. They maced young children during a peaceful daytime protest.
+
+#### Boston PD
+* Boston PD has been tweeting false reports of the protesters "losing the moral high ground" as those same officers beat and used any means necessary to trap and maim protesters. Emergency vehicles such as ambulances and EMTs were not on the scene and had to drive there, even though riot police were there and ready to fire upon the crowd with no warnings to disperse.
 
 #### Buffalo PD - Aaron Torgalski
 * one of the officers that shoved and gave a serious head wound to a peaceful protester
 [tweet](https://twitter.com/donwinslow/status/1268725675600429063?s=20)
 * [article, the hill](https://thehill.com/homenews/state-watch/501279-elderly-man-appears-unconscious-bleeding-from-ear-after-shoved-to-ground)
 
+
+#### Chicago PD
+* Chicago police announced a curfew and then raised the bridges out of downtown. Demonstrators were trapped and at the utter mercy of CPD roundups. A police supervisor ordered on the radio, "Gas 'em all." Over 1,000 people have been arrested.
+
 #### Denver PD - Thomas McClay
 * the officer, who posted on instagram with caption "Let's start a riot", has been fired
 [article](https://denver.cbslocal.com/2020/06/02/denver-police-officer-fired-instagram-post/)
 
-#### Towards the media
-* United States added to list of most dangerous countries for journalists for first time. This is from 2018 [article, nbcnews](https://www.nbcnews.com/news/world/united-states-added-list-most-dangerous-countries-journalists-first-time-n949676?)
+#### Detroit PD
+* Detroit police have brutally beaten, tear gassed, and arrested peaceful protestors. A curfew is set from 8pm to 5am city wide.
 
+#### Minneapolis Police
+* Minneapolis police shot at people filming them on their own balconies.
+
+#### NYPD pepper sprays NY state senator
+* state senator zellnor myrie (d-brooklyn) was pepper sprayed and handcuffed at barclays center protest [news12 the bronx article](http://bronx.news12.com/story/42192118/state-senator-says-he-was-pepper-sprayed-handcuffed-at-barclays-protest?fbclid=IwAR0RZZnjylWHhbmhqxoqzHBieeITZbx-5o7cooxIUBv3SrrySFtefCeONWc)
+* An NYPD officer called a woman a "fucking bitch" and threw her on the ground. She went into a seizure and had to go to the emergency room. Then more New York cops rammed into crowds of protesters with their cars.
+
+#### Rockford Police
+* Rockford police dragged people from their cars and beat them last night.
+
+#### San Jose PD
+* A SJPD officer called a woman “a fucking bitch” and started firing at protesters which started the violence in a previously peaceful protest.
+
+#### Towards the media
+* Everywhere, journalists are being indiscriminately targeted and arrested. A Minneapolis photojournalist is blinded permanently in one eye after being hit by a less lethal round.
+* United States added to list of most dangerous countries for journalists for first time. This is from 2018 [article, nbcnews](https://www.nbcnews.com/news/world/united-states-added-list-most-dangerous-countries-journalists-first-time-n949676?)
 
 ### UCLA
 
