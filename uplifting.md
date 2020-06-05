@@ -16,3 +16,5 @@ layout: default
 ### Mennonites turns up at protests [twitter](https://twitter.com/Rachels_Ratchet/status/1266758062020292609?s=20)
 
 ### DC Mayor invoked 3rd amendment to remove National Guard from hotels
+[meme](https://twitter.com/SchrafftVortex/status/1268796670164250626?s=20)
+
