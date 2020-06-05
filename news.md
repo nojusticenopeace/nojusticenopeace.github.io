@@ -94,6 +94,7 @@ layout: default
 - Peaceful Protesters Tear-Gassed To Clear Way For Trump Church Photo-Op [article, npr](https://www.npr.org/2020/06/01/867532070/trumps-unannounced-church-visit-angers-church-officials?)
   - photo-op was not approved by the church ahead of time
 - Hid in a bunker (#BunkerBoy on Twitter)
+- Cuts ties with WHO amid a pandemic [article, cnbc](https://www.cnbc.com/2020/05/29/trump-says-the-us-will-cut-ties-with-world-health-organization.html)
 
 ### Internationally
 - NSW Police taking organisers of Sydney Black Lives Matter protest to Supreme Court [article, sydney morning herald](https://www.smh.com.au/national/nsw/nsw-police-taking-organisers-of-sydney-black-lives-matter-protest-to-supreme-court-20200605-p54zw8.html)
