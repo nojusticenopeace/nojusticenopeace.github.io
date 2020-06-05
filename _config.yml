@@ -1,0 +1,7 @@
+title: Black Lives Matter
+description: No Justice. No Peace.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://nojusticenopeace.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+theme: jekyll-theme-minimal
+github:
+  is_project_page: false
