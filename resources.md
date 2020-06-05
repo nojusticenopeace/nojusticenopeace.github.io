@@ -20,6 +20,8 @@ _petitions, places to donate, resources, etc_
 Resistbot _[(link)](https://resist.bot/)
 _contact representations via text_
 
+Just Mercy film, watch for free _[(link)](https://www.justmercyfilm.com/)_
+
 ### protesting
 
 Bay Area protest calendar _[(link)](https://www.actiontogetherbayarea.org/calendar)
