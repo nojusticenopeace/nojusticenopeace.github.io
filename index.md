@@ -8,7 +8,7 @@ _these are just some of the black americans whose lives were stolen_
 
 Tony McDade -- _5.27.2020 / tallahassee, florida_
 
-*George Floyd -- _5.25.2020 / minneapolis, minnesota_*
+**George Floyd -- _5.25.2020 / minneapolis, minnesota_**
 
 Breonna Taylor -- _3.13.2020 / louisville, kentucky_
 
