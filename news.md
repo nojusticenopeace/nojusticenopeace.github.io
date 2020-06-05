@@ -8,6 +8,18 @@ layout: default
 
 260+ tweets with videos of unprovoked violence by the police on peaceful protestors [tweet](https://twitter.com/trevortimm/status/1268621018857213954)
 
+#### NYPD pepper sprays NY state senator
+* state senator zellnor myrie (d-brooklyn) was pepper sprayed and handcuffed at barclays center protest [news12 the bronx article](http://bronx.news12.com/story/42192118/state-senator-says-he-was-pepper-sprayed-handcuffed-at-barclays-protest?fbclid=IwAR0RZZnjylWHhbmhqxoqzHBieeITZbx-5o7cooxIUBv3SrrySFtefCeONWc)
+
+#### Buffalo PD - Aaron Torgalski
+* one of the officers that shoved and gave a serious head wound to a peaceful protester
+[tweet](https://twitter.com/donwinslow/status/1268725675600429063?s=20)
+
+#### Denver PD - Thomas McClay
+* the officer, who posted on instagram with caption "Let's start a riot", has been fired
+[article](https://denver.cbslocal.com/2020/06/02/denver-police-officer-fired-instagram-post/)
+
+
 ### UCLA
 
 #### Jackie Robinson Stadium used as field jail
@@ -18,14 +30,6 @@ layout: default
 * mocked students for asking he "give black students special treatment, given the tragedy in Minnesota."
 [petition](http://chng.it/DcX7pKwmC8)
 
-### Buffalo PD - Aaron Torgalski
-* one of the officers that shoved and gave a serious head wound to a peaceful protester
-[tweet](https://twitter.com/donwinslow/status/1268725675600429063?s=20)
-
-### Denver PD - Thomas McClay
-* the officer, who posted on instagram with caption "Let's start a riot", has been fired
-[article](https://denver.cbslocal.com/2020/06/02/denver-police-officer-fired-instagram-post/)
-
 ### NFL
 * tone deaf statement by the nfl, who has never acknowledged colin kaepernick's peaceful statement [nfl statement](https://twitter.com/NFL/status/1266852547890839552)
 * washington redskins posted black square on #blackouttuesday 
@@ -34,4 +38,5 @@ layout: default
 
 ### NBA
 * fox news newscaster laura ingraham to lebron and kd: "shut up and dribble!" but approves of drew brees [video](https://twitter.com/ComplexSports/status/1268551040074383361)
+
 
