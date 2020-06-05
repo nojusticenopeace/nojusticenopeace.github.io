@@ -20,6 +20,9 @@ layout: default
 * the officer, who posted on instagram with caption "Let's start a riot", has been fired
 [article](https://denver.cbslocal.com/2020/06/02/denver-police-officer-fired-instagram-post/)
 
+#### Towards the media
+* United States added to list of most dangerous countries for journalists for first time. This is from 2018 [article, nbcnews](https://www.nbcnews.com/news/world/united-states-added-list-most-dangerous-countries-journalists-first-time-n949676?)
+
 
 ### UCLA
 
