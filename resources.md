@@ -4,6 +4,18 @@ layout: default
 
 ## Resources
 
+### petitions
+
+#8cantwait _[(link)](https://8cantwait.org/)_
+- ban chokeholds & strangleholds
+- require de-escalation
+- require warning before shooting
+- requires exhaust all alternatives before shooting
+- duty to intervene
+- ban shooting at moving vehicles
+- require use of force continuum
+- require comprehensive reporting
+
 ### where to donate
 
 Bail bonds _[(link)](https://bailbonds.github.io)_
@@ -30,7 +42,6 @@ _contact representations via text_
 Just Mercy film, watch for free _[(link)](https://www.justmercyfilm.com/)_
 
 Guide to Allyship _[(link)](https://docs.google.com/document/d/1CIfMQED_B444Y-K8kAqUOgq8xrSFdSrjFBRnyK6wmz4/edit?)_
-
 
 
 ### protesting
