@@ -35,6 +35,9 @@ layout: default
 #### Detroit PD
 * Detroit police have brutally beaten, tear gassed, and arrested peaceful protestors. A curfew is set from 8pm to 5am city wide.
 
+#### LAPD
+* Mayor's words do not align with police action. [youtube video](https://www.sccgov.org/sites/rov/Info/Documents/Office-Holders-List.pdf)
+
 #### Minneapolis Police
 * Minneapolis police shot at people filming them on their own balconies.
 
