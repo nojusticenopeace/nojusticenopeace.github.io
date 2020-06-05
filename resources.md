@@ -24,6 +24,14 @@ _contact representations via text_
 
 Bay Area protest calendar _[(link)](https://www.actiontogetherbayarea.org/calendar)
 
+#### Rights
+- if you are arrested, say nothing until legal representation is present
+- know your rights
+
+#### Pro Bono law services
+- Bay Area
+  - Pier 5 law offices (1-833-657-4375)
+
 ### social media
 
 San Jose Foos _[(link)](https://www.instagram.com/sanjosefoos/)_
