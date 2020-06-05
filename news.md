@@ -39,4 +39,5 @@ layout: default
 ### NBA
 * fox news newscaster laura ingraham to lebron and kd: "shut up and dribble!" but approves of drew brees [video](https://twitter.com/ComplexSports/status/1268551040074383361)
 
-
+### Qualified immunity
+* police act like laws don't apply to them because of 'qualified immunity.' they're right. [article, usa today](https://www.usatoday.com/story/opinion/2020/05/30/police-george-floyd-qualified-immunity-supreme-court-column/5283349002/)
