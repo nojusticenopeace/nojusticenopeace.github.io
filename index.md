@@ -31,3 +31,7 @@ Eric Garner -- _7.17.2014 / staten island, new york_
 Jordan Davis -- _11.23.2012 / jacksonville, florida_
 
 Trayvon Martin -- _2.26.2012 / sanford, florida_
+
+## Quotes
+
+Saying "All Lives Matter" as a response to "Black Lives Matter" is like saying the fire department should spray down all the houses in a neighborhood even though only one house is on fire... because all houses matter. Yes, your house matters too, BUT YOUR HOUSE IS NOT ON FIRE???
