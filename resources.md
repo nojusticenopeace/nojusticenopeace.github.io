@@ -42,4 +42,4 @@ San Jose Foos _[(link)](https://www.instagram.com/sanjosefoos/)_
 
 ### graphics
 
-Non-Black East Asian privilege (https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/101808009_10221676551410442_5086033399282401280_n.jpg?_nc_cat=100&_nc_sid=1480c5&_nc_ohc=LoRGcyrDPAEAX-djE0h&_nc_ht=scontent-sjc3-1.xx&oh=5f35a508e1020bb5fd337e229e678ef2&oe=5EFFC3A0)
+![Non-Black East Asian privilege] (https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/101808009_10221676551410442_5086033399282401280_n.jpg?_nc_cat=100&_nc_sid=1480c5&_nc_ohc=LoRGcyrDPAEAX-djE0h&_nc_ht=scontent-sjc3-1.xx&oh=5f35a508e1020bb5fd337e229e678ef2&oe=5EFFC3A0)
