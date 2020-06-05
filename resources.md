@@ -85,3 +85,4 @@ Twitter trends _[(link)](https://us.trend-calendar.com/trend/2020-06-04.html)
 
 ![Non-Black East Asian privilege](https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/101808009_10221676551410442_5086033399282401280_n.jpg?_nc_cat=100&_nc_sid=1480c5&_nc_ohc=LoRGcyrDPAEAX-djE0h&_nc_ht=scontent-sjc3-1.xx&oh=5f35a508e1020bb5fd337e229e678ef2&oe=5EFFC3A0)
 ![Black owned restaurants in San Jose](https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/101738629_10221666481398698_6409204680198455296_n.jpg?_nc_cat=107&_nc_sid=110474&_nc_ohc=MdLTZaMkp24AX_aTqd9&_nc_ht=scontent-sjc3-1.xx&oh=ff915443412c8adab7d3c7f6ece1b712&oe=5EFE3246)
+![Contrast in 45's statements](https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/101037194_10157391874508367_3526323687961657344_o.jpg?_nc_cat=1&_nc_sid=8024bb&_nc_ohc=H4zYsWPHlJoAX_Phkv-&_nc_ht=scontent-sjc3-1.xx&oh=0384b4b5d4923559fc97b7ad2172ca73&oe=5F0031E4)
