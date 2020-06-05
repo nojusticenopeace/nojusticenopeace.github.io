@@ -19,6 +19,8 @@ Taylor Swift _[(tweet)](https://twitter.com/taylorswift13/status/126639227454977
 
 Killer Mike Delivers Emotional Speech to Atlanta Protestors at Mayor’s Press Conference _[(article, rolling stone)](https://www.rollingstone.com/music/music-news/killer-mike-speech-atlanta-protestors-press-conference-1007816/)_
 
+Bratz _[(instagram)](https://www.instagram.com/p/CA1kakTJdr7/)_
+
 ### opposing, silence, or lipservice
 
 San Jose mayor, Sam Liccardo in response to peaceful protests _[link](https://medium.com/@SamLiccardo/i-cant-breathe-17684b68309f)_
