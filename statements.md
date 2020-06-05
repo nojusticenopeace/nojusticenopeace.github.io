@@ -11,8 +11,11 @@ Ben & Jerry's _[(statement)](https://www.benjerry.com/about-us/media-center/dism
 
 John Boyega spoke in London _[(youtube)](https://www.youtube.com/watch?v=GGXEB25WdyQ)_
 
-Van Jones, CNN news commentator _[(video)](https://twitter.com/Jaxlzz/status/1266365670851215360?s=20)
+Van Jones, CNN news commentator _[(video)](https://twitter.com/Jaxlzz/status/1266365670851215360?s=20)_
 > it's the white, liberal, HRC supporter walking her dog in central park, the minute she sees a black man, who she does not respect or who she has a slight thought against, she weaponizes race like she's been trained by the aryan nation
+
+Taylor Swift _[(tweet)](https://twitter.com/taylorswift13/status/1266392274549776387)_
+> After stoking the fires of white supremacy and racism your entire presidency, you have the nerve to feign moral superiority before threatening violence? ‘When the looting starts the shooting starts’??? We will vote you out in November. @realdonaldtrump
 
 ### opposing, silence, or lipservice
 
