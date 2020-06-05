@@ -74,3 +74,7 @@ Facebook/Mark Zuckerberg
 
 Shameik Moore
 - "Rosa Parks should have taken a cab" [screen recording of tiktok](https://twitter.com/Phil_Lewis_/status/1266155685110337536?s=20) [article, vibe](https://www.vibe.com/2020/05/shameik-moore-blasted-for-comments-on-police-brutality-rosa-parks)
+
+Mike Lee, Senator of Utah
+- "Just heard that Mayor Bowser is kicking the Utah National Guard out of all DC hotels tomorrow. More than 1200 troops from 10 states are being evicted. This is unacceptable." [tweet](https://twitter.com/SenMikeLee/status/1268756501516050432)
+- 3rd amendment: No Soldier shall, **in time of peace** be quartered in any house, without the consent of the Owner, nor in time of war, but in a manner to be prescribed by law.
