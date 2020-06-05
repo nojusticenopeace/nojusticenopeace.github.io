@@ -23,6 +23,7 @@ layout: default
 * one of the officers that shoved and gave a serious head wound to a **75 year old pedestrian**
 [tweet](https://twitter.com/donwinslow/status/1268725675600429063?s=20) [tweet with footage](https://twitter.com/cenkuygur/status/1268756517034979330?s=20)
 * [article, the hill](https://thehill.com/homenews/state-watch/501279-elderly-man-appears-unconscious-bleeding-from-ear-after-shoved-to-ground)
+* "the entire @BPDAlerts Emergency Response Team has resigned from the team, a total of 57 officers, as a show of support for the officers who are suspended without pay after shoving Martin Gugino, 75. They are still employed, but no longer on ERT. " [tweet](https://twitter.com/DaveGreber4/status/1268977512320819203)
 
 
 #### Chicago PD
