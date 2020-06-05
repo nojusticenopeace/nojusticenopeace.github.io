@@ -31,3 +31,6 @@ Drew Brees
 - apology #1 [instagram](https://www.instagram.com/p/CA-aQwGnILy/)
 - apology #2 [instagram](https://www.instagram.com/p/CBA1P3gHpT_/)
 - apology #3 [instagram](https://www.instagram.com/p/CBCIljGngKI/)
+
+CEO of Muy! companies, James Bodenstedt, donated $440,000 to 45's reelection campaign [article, fox business](https://www.foxbusiness.com/politics/wendys-james-bodenstedt-400k-trump)
+- includes Taco Bell, Pizza Hut, Wendy's franchises
