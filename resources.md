@@ -22,7 +22,7 @@ Move IQA World Cup elsewhere _[(link)](https://docs.google.com/document/d/1Vh-sr
 
 Bail bonds _[(link)](https://bailbonds.github.io)_
 
-#### Watch YouTube Videos
+#### Watch YouTube Videos to generate donations
 
 * _[(video)](https://www.youtube.com/watch?v=bCgLa25fDHM&fbclid=IwAR01zkG7laK50tgcbgv3vD-NJiLvMuyXGSA4bXOtN6q6Ujb7RshFx8AGLXo)_
 
@@ -45,6 +45,7 @@ Just Mercy film, watch for free _[(link)](https://www.justmercyfilm.com/)_
 
 Guide to Allyship _[(link)](https://docs.google.com/document/d/1CIfMQED_B444Y-K8kAqUOgq8xrSFdSrjFBRnyK6wmz4/edit?)_
 
+1619 Project from the New York Times _[(link)](https://www.nytimes.com/interactive/2019/08/14/magazine/1619-america-slavery.html)
 
 ### protesting
 
