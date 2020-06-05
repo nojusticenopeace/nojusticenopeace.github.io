@@ -30,6 +30,8 @@ Tamir Rice -- _11.22.2014 / cleveland, ohio_
 
 Eric Garner -- _7.17.2014 / staten island, new york_
 
+Antonio Lopez -- _2.21.2014 / san jose, california_
+
 Jordan Davis -- _11.23.2012 / jacksonville, florida_
 
 Trayvon Martin -- _2.26.2012 / sanford, florida_
