@@ -45,7 +45,7 @@ Just Mercy film, watch for free _[(link)](https://www.justmercyfilm.com/)_
 
 Guide to Allyship _[(link)](https://docs.google.com/document/d/1CIfMQED_B444Y-K8kAqUOgq8xrSFdSrjFBRnyK6wmz4/edit?)_
 
-1619 Project from the New York Times _[(link)](https://www.nytimes.com/interactive/2019/08/14/magazine/1619-america-slavery.html)
+1619 Project from the New York Times _[(link)](https://www.nytimes.com/interactive/2019/08/14/magazine/1619-america-slavery.html)_
 
 ### protesting
 
