@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  {% include head.html %}
+  <body>
+    <div class="wrapper">
+      {% include header.html %}
+      <section>
+        <h2>Washington D.C.</h2>
+        <div id="WashingtonDC"></div>
+        <h2>Alabama</h2>
+        <div id="Alabama"></div>
+        <h2>Alaska</h2>
+        <div id="Alaska"></div>
+        <h2>Arizona</h2>
+        <div id="Arizona"></div>
+        <h2>Arkansas</h2>
+        <div id="Arkansas"></div>
+        <h2>California</h2>
+        <div id="California"></div>
+        <h2>Colorado</h2>
+        <div id="Colorado"></div>
+        <h2>Connecticut</h2>
+        <div id="Connecticut"></div>
+        <h2>Delaware</h2>
+        <div id="Delaware"></div>
+        <h2>Florida</h2>
+        <div id="Florida"></div>
+        <h2>Georgia</h2>
+        <div id="Georgia"></div>
+        <h2>Hawaii</h2>
+        <div id="Hawaii"></div>
+        <h2>Idaho</h2>
+        <div id="Idaho"></div>
+        <h2>Illinois</h2>
+        <div id="Illinois"></div>
+        <h2>Indiana</h2>
+        <div id="Indiana"></div>
+        <h2>Iowa</h2>
+        <div id="Iowa"></div>
+        <h2>Kansas</h2>
+        <div id="Kansas"></div>
+        <h2>Kentucky</h2>
+        <div id="Kentucky"></div>
+        <h2>Louisiana</h2>
+        <div id="Louisiana"></div>
+        <h2>Maine</h2>
+        <div id="Maine"></div>
+        <h2>Maryland</h2>
+        <div id="Maryland"></div>
+        <h2>Massachusetts</h2>
+        <div id="Massachusetts"></div>
+        <h2>Michigan</h2>
+        <div id="Michigan"></div>
+        <h2>Minnesota</h2>
+        <div id="Minnesota"></div>
+        <h2>Mississippi</h2>
+        <div id="Mississippi"></div>
+        <h2>Missouri</h2>
+        <div id="Missouri"></div>
+        <h2>Montana</h2>
+        <div id="Montana"></div>
+        <h2>Nebraska</h2>
+        <div id="Nebraska"></div>
+        <h2>Nevada</h2>
+        <div id="Nevada"></div>
+        <h2>New Hampshire</h2>
+        <div id="NewHampshire"></div>
+        <h2>New Jersey</h2>
+        <div id="NewJersey"></div>
+        <h2>New Mexico</h2>
+        <div id="NewMexico"></div>
+        <h2>New York</h2>
+        <div id="NewYork"></div>
+        <h2>North Carolina</h2>
+        <div id="NorthCarolina"></div>
+        <h2>North Dakota</h2>
+        <div id="NorthDakota"></div>
+        <h2>Ohio</h2>
+        <div id="Ohio"></div>
+        <h2>Oklahoma</h2>
+        <div id="Oklahoma"></div>
+        <h2>Oregon</h2>
+        <div id="Oregon"></div>
+        <h2>Pennsylvania</h2>
+        <div id="Pennsylvania"><h2>
+        <h2>Rhode Island</h2>
+        <div id="RhodeIsland"></div>
+        <h2>South Carolina</h2>
+        <div id="SouthCarolina"></div>
+        <h2>South Dakota</h2>
+        <div id="SouthDakota"></div>
+        <h2>Tennessee</h2>
+        <div id="Tennessee"></div>
+        <h2>Texas</h2>
+        <div id="Texas"></div>
+        <h2>Utah</h2>
+        <div id="Utah"></div>
+        <h2>Vermont</h2>
+        <div id="Vermont"></div>
+        <h2>Virginia</h2>
+        <div id="Virginia"></div>
+        <h2>Washington</h2>
+        <div id="Washington"></div>
+        <h2>West Virginia</h2>
+        <div id="WestVirginia"></div>
+        <h2>Wisconsin</h2>
+        <div id="Wisconsin"></div>
+        <h2>Wyoming</h2>
+        <div id="Wyoming"></div>
+        <h2>Other</h2>
+        <div id="Other"></div>
+
+      </section>
+      {% include footer.html %}
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+      $.getJSON("https://raw.githubusercontent.com/2020PB/police-brutality/data_build/all-locations.json?fbclid=IwAR2GCjH7oh064WX_GPWvKUj2IBBr0nIMAt7cwa-NGJRNyqtY2WsBZ3eR2NQ", function(data) {
+          $( "section" ).prepend(`<p><a href='${ data.edit_at }'>open source and editable</a></p>`)
+          $.each(data.data, function(k,v) {
+            var element = "#"+v.state.replace(" ","")
+            var links = ""
+            for (i in v.links) {
+              links += `<em><a href='${ v.links[i] }'>[link]</em</a> `
+            }
+            var date = v.date
+            if (date == "") { date = "unknown" }
+            var text = `<p><small>[ ${ date }, ${ v.city } ]</small> ${ v.name } <em>${ links }</em></p>`
+            if ( $( element ).length ) {
+                $( element).append(text)
+            } else {
+                $( "Other").append(text)
+            }
+          })
+      })
+    </script>
+
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    {% if site.google_analytics %}
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', '{{ site.google_analytics }}', 'auto');
+      ga('send', 'pageview');
+    </script>
+    {% endif %}
+  </body>
+</html>
