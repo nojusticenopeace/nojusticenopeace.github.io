@@ -34,3 +34,13 @@ Drew Brees
 
 CEO of Muy! companies, James Bodenstedt, donated $440,000 to 45's reelection campaign [article, fox business](https://www.foxbusiness.com/politics/wendys-james-bodenstedt-400k-trump)
 - includes Taco Bell, Pizza Hut, Wendy's franchises
+
+Tokyo Jetz
+
+Doja Cat
+
+Desi
+
+B. Simone
+
+Santana
