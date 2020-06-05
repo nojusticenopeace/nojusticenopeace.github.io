@@ -47,6 +47,10 @@ Guide to Allyship _[(link)](https://docs.google.com/document/d/1CIfMQED_B444Y-K8
 
 1619 Project from the New York Times _[(link)](https://www.nytimes.com/interactive/2019/08/14/magazine/1619-america-slavery.html)_
 
+California salaries _[(link)](https://transparentcalifornia.com/salaries/)_
+
+Santa Clara county officer holders list _[(link)](https://www.sccgov.org/sites/rov/Info/Documents/Office-Holders-List.pdf)
+
 ### protesting
 
 Bay Area protest calendar _[(link)](https://www.actiontogetherbayarea.org/calendar)
@@ -62,6 +66,8 @@ Bay Area protest calendar _[(link)](https://www.actiontogetherbayarea.org/calend
 ### social media
 
 San Jose Foos _[(link)](https://www.instagram.com/sanjosefoos/)_
+
+Twitter trends _[(link)](https://us.trend-calendar.com/trend/2020-06-04.html)
 
 ### Tackling anti-blackness with asian families
 
