@@ -7,9 +7,9 @@ layout: default
 ### supporting
 
 Ben & Jerry's _[(statement)](https://www.benjerry.com/about-us/media-center/dismantle-white-supremacy)_ 
-* Co-founders arrested during protest in DC _[(article, people)](https://people.com/crime/ben-jerrys-co-founders-arrested-during-protest/)
+* Co-founders arrested during protest in DC _[(article, people)](https://people.com/crime/ben-jerrys-co-founders-arrested-during-protest/)_
 
-John Boyega spoke in London _[(youtube)](https://www.youtube.com/watch?v=GGXEB25WdyQ)
+John Boyega spoke in London _[(youtube)](https://www.youtube.com/watch?v=GGXEB25WdyQ)_
 
 ### opposing, silence, or lipservice
 
