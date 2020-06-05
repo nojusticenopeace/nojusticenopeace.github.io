@@ -50,6 +50,9 @@ layout: default
 * state senator zellnor myrie (d-brooklyn) was pepper sprayed and handcuffed at barclays center protest [news12 the bronx article](http://bronx.news12.com/story/42192118/state-senator-says-he-was-pepper-sprayed-handcuffed-at-barclays-protest?fbclid=IwAR0RZZnjylWHhbmhqxoqzHBieeITZbx-5o7cooxIUBv3SrrySFtefCeONWc)
 * An NYPD officer called a woman a "fucking bitch" and threw her on the ground. She went into a seizure and had to go to the emergency room. Then more New York cops rammed into crowds of protesters with their cars.
 
+#### Philadelphia PD
+* ‘Police just went nuts’: Charges dropped after video surfaces of police beating student, other protesters with batons [link](https://www.inquirer.com/news/philadelphia-police-beating-temple-student-evan-gorski-protest-20200604.html)
+
 #### Rockford Police
 * Rockford police dragged people from their cars and beat them last night.
 
@@ -100,6 +103,8 @@ layout: default
 - Hid in a bunker (#BunkerBoy on Twitter)
 - Cuts ties with WHO amid a pandemic [article, cnbc](https://www.cnbc.com/2020/05/29/trump-says-the-us-will-cut-ties-with-world-health-organization.html)
 - Anonymous reveals that 45 and Epstein convicted of the largest childtrafficking organization [article, forbes](https://www.forbes.com/sites/daveywinder/2020/06/02/trumps-dirty-laundry-anonymous-hackers-threaten-to-reveal-all-george-floyd-protest/#6b071ddb1fc3)
+- "Hopefully, George is looking down right and saying this is a great thing that’s happening for our country. It’s a great day for him, it’s a great day for everybody." [video](https://twitter.com/fakedansavage/status/1268932433174392834?s=20)
+- #BabyGate
 
 ### Internationally
 - NSW Police taking organisers of Sydney Black Lives Matter protest to Supreme Court [article, sydney morning herald](https://www.smh.com.au/national/nsw/nsw-police-taking-organisers-of-sydney-black-lives-matter-protest-to-supreme-court-20200605-p54zw8.html)
