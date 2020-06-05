@@ -81,3 +81,6 @@ layout: default
 - What a World Without Cops Would Look Like [article, mother jones](https://www.motherjones.com/crime-justice/2020/06/police-abolition-george-floyd/)
 - For a world without police [organization](http://aworldwithoutpolice.org/)
 - Minneapolis City Council members consider disbanding the police [article, citypages](http://www.citypages.com/news/minneapolis-city-council-members-consider-disbanding-the-police/570993291)
+
+### Internationally
+- NSW Police taking organisers of Sydney Black Lives Matter protest to Supreme Court [article, sydney morning herald](https://www.smh.com.au/national/nsw/nsw-police-taking-organisers-of-sydney-black-lives-matter-protest-to-supreme-court-20200605-p54zw8.html)
