@@ -6,7 +6,8 @@ layout: default
 
 ### supporting
 
-Ben & Jerry's _[(link)](https://www.benjerry.com/about-us/media-center/dismantle-white-supremacy)_
+Ben & Jerry's _[(statement)](https://www.benjerry.com/about-us/media-center/dismantle-white-supremacy)_ 
+* Co-founders arrested during protest in DC _[(article, people)](https://people.com/crime/ben-jerrys-co-founders-arrested-during-protest/)
 
 ### opposing, silence, or lipservice
 
