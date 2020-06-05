@@ -51,3 +51,6 @@ Tom Cotton, US Senator candidate for AR
 Facebook/Mark Zuckerberg
 - No action on 45 posts [article, cbs news](https://www.cbsnews.com/news/mark-zuckerberg-defends-trump-facebook-posts-walkout/)
 - Facebook employees walk out virtually in protest
+
+Shameik Moore
+- "Rosa Parks should have taken a cab" [screen recording of tiktok](https://twitter.com/Phil_Lewis_/status/1266155685110337536?s=20) [article, vibe](https://www.vibe.com/2020/05/shameik-moore-blasted-for-comments-on-police-brutality-rosa-parks)
