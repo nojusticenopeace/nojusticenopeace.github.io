@@ -52,6 +52,9 @@ layout: default
 #### Rockford Police
 * Rockford police dragged people from their cars and beat them last night.
 
+#### San Diego PD
+* At 8:10PM San Diego PD shot an unarmed woman, Leslie, in the head. Her hands were up, she was standing on the corner. [graphic imagery](https://twitter.com/bballdorito23/status/1266973751633219584?s=20) [gofundme](https://www.gofundme.com/f/csgskf-love-and-support-for-leslie)
+
 #### San Jose PD
 * A SJPD officer called a woman “a fucking bitch” and started firing at protesters which started the violence in a previously peaceful protest.
 
