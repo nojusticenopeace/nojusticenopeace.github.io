@@ -4,26 +4,6 @@ layout: default
 
 ## News
 
-### This hit me the hardest
-
-#### Thur 6.4.2020
-* He's 75
-  * On 6.4, while enforcing the 8pm curfew, Aaron Torgalski (Buffalo PD) pushed a 75-year old white man to the ground in Niagara Square. He fell backwards, hit his head, and starts bleeding immediately motionless.
-  * Buffalo PD officers continued walking past while he was bleeding out onto the ground. One officer bent down to see how he was doing and the officer who pushed him grabbed the second officer and pushed him away.
-  * Buffalo PD claims the man "tripped and fell".
-  * In the footage, the man was holding a riot helmet, seemingly trying to return the helmet to the officers before he was pushed to the ground.
-  * [footage](https://twitter.com/JordanUhl/status/1268717966532792325?s=20)
-  * Internal Affairs at Buffalo PD is 716-851-4557.
-
-#### Wed 6.3.2020
-* #HisNameIsJustinHowell. 
-  * On 5.31, 20 year old black student at Texas State University was shot in the head with a rubber bullet, a "non-lethal" weapon. He has a fractured skull and brain damage. 
-  * Austin PD says it was an accident, they were aiming at someone else.
-  * A medic and other protestors who were carrying him to safety to the police department, who were ordered to do this by the police, were shot at by the police department.
-  * [gofundme](https://www.gofundme.com/f/health-justice-and-recovery-for-justin-howell)
-  * [medic's first hand account](https://twitter.com/YourAnonCentral/status/1268446368772677638?s=20)
-
-
 ### Police Brutality
 
 260+ tweets with videos of unprovoked violence by the police on peaceful protestors [tweet](https://twitter.com/trevortimm/status/1268621018857213954)
@@ -32,8 +12,8 @@ layout: default
 * An Atlanta couple last night had their tires slashed, windows broken, and were dragged out of their car and tazed.
 
 #### Austin PD
-* Austin police have caused brain damage in a young man (Justin Howell) by shooting him in the head with bird shot rounds wrapped in cloth, and continued to shoot the medics carrying his body. 
-* They shot a known pregnant woman in the stomach, then stormed and abducted her from a medic tent. 
+* Austin police have caused brain damage in a young man (Justin Howell) by shooting him in the head with bird shot rounds wrapped in cloth, and continued to shoot the medics carrying his body.
+* They shot a known pregnant woman in the stomach, then stormed and abducted her from a medic tent.
 * They maced young children during a peaceful daytime protest.
 
 #### Boston PD
@@ -84,7 +64,7 @@ layout: default
 
 ### NFL
 * tone deaf statement by the nfl, who has never acknowledged colin kaepernick's peaceful statement [nfl statement](https://twitter.com/NFL/status/1266852547890839552)
-* washington redskins posted black square on #blackouttuesday 
+* washington redskins posted black square on #blackouttuesday
 * bills rookie qb jake fromm says guns should be expensive "so only elite white people can get them haha" [screenshots](https://twitter.com/MusikFan4Life/status/1268608999122968577?s=20)
 * drew brees
 
@@ -98,7 +78,7 @@ layout: default
 ### 45
 - Peaceful Protesters Tear-Gassed To Clear Way For Trump Church Photo-Op [article, npr](https://www.npr.org/2020/06/01/867532070/trumps-unannounced-church-visit-angers-church-officials?)
   - photo-op was not approved by the church ahead of time
-  
+
 ### Defunding the police
 - What a World Without Cops Would Look Like [article, mother jones](https://www.motherjones.com/crime-justice/2020/06/police-abolition-george-floyd/)
 - For a world without police [organization](http://aworldwithoutpolice.org/)
