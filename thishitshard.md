@@ -4,6 +4,10 @@ layout: default
 
 ## This hit the hardest
 
+### Fri 6.5.2020
+#### Happy Birthday Breonna Taylor
+* She would have been 27
+
 ### Thur 6.4.2020
 #### He's 75
 * On 6.4, while enforcing the 8pm curfew, Aaron Torgalski (Buffalo PD) pushed a 75-year old white man to the ground in Niagara Square. He fell backwards, hit his head, and starts bleeding immediately motionless. He is in serious condition.
