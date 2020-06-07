@@ -53,6 +53,8 @@ Santa Clara county officer holders list _[(link)](https://www.sccgov.org/sites/r
 
 100+ black owned etsy shops _[(link)](https://themadmommy.com/black-owned-etsy-shops/)_
 
+what to do _[(link)](https://docs.google.com/document/d/1zh6reFJWkZRGBL5iIezTfA2tkKBB3X9JcMh2QYT8tWk/mobilebasic)_
+
 ### protesting
 
 Bay Area protest calendar _[(link)](https://www.actiontogetherbayarea.org/calendar)
