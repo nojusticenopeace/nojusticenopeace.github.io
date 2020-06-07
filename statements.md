@@ -82,3 +82,5 @@ Mike Lee, Senator of Utah
 - 3rd amendment: No Soldier shall, **in time of peace** be quartered in any house, without the consent of the Owner, nor in time of war, but in a manner to be prescribed by law.
 
 Lush owner gives cops care packages [screenshots](https://twitter.com/GhostlySpells/status/1268882821210398720?s=20)
+
+San Jose councilmember, Lan Diep (district 4), publicly advocated for Jared Yuen, muted comments on his office's instagram when people were commenting about this. Lan Diep supports freedom of speech but "not the right to be heard the way I want to be heard." Instead of listening to "the overwhelming number of emails" he's received on #BLM and defunding the police, he's giving excuses for why it shouldn't happen. 
