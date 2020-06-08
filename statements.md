@@ -82,3 +82,5 @@ Mike Lee, Senator of Utah
 - 3rd amendment: No Soldier shall, **in time of peace** be quartered in any house, without the consent of the Owner, nor in time of war, but in a manner to be prescribed by law.
 
 Lush owner gives cops care packages [screenshots](https://twitter.com/GhostlySpells/status/1268882821210398720?s=20)
+
+Cross Fit CEO calls protests Floyd-19 on twitter [tweet](https://twitter.com/crossfitceo/status/1269404726581288960?s=21)
