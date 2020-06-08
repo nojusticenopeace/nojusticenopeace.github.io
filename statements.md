@@ -84,3 +84,4 @@ Mike Lee, Senator of Utah
 Lush owner gives cops care packages [screenshots](https://twitter.com/GhostlySpells/status/1268882821210398720?s=20)
 
 San Jose councilmember, Lan Diep (district 4), publicly advocated for Jared Yuen, muted comments on his office's instagram when people were commenting about this. Lan Diep supports freedom of speech but "not the right to be heard the way I want to be heard." Instead of listening to "the overwhelming number of emails" he's received on #BLM and defunding the police, he's giving excuses for why it shouldn't happen. 
+Cross Fit CEO calls protests Floyd-19 on twitter [tweet](https://twitter.com/crossfitceo/status/1269404726581288960?s=21)
