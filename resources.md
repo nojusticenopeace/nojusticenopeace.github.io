@@ -57,6 +57,8 @@ what to do _[(link)](https://docs.google.com/document/d/1zh6reFJWkZRGBL5iIezTfA2
 
 Progressive Shopper extension on Chrome tells you the political contributions of a company.
 
+Asian American racism: https://docs.google.com/document/u/0/d/1ZYGv1kFn2n-rexXdtQ4lxo3fWRpq8L8dYNPmnxgOsIU/mobilebasic
+
 ### protesting
 
 Bay Area protest calendar _[(link)](https://www.actiontogetherbayarea.org/calendar)
