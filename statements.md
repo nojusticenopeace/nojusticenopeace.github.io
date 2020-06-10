@@ -33,6 +33,8 @@ On the frontlines:
 
 ESPN's Maria Taylor [comments on tv](https://twitter.com/iam_johnw/status/1268924294006034441?s=20)
 
+Cops TV show cancelled
+
 ### opposing, silence, or lipservice
 
 San Jose mayor, Sam Liccardo in response to peaceful protests _[link](https://medium.com/@SamLiccardo/i-cant-breathe-17684b68309f)_
@@ -86,3 +88,11 @@ Lush owner gives cops care packages [screenshots](https://twitter.com/GhostlySpe
 San Jose councilmember, Lan Diep (district 4), publicly advocated for Jared Yuen, muted comments on his office's instagram when people were commenting about this. Lan Diep supports freedom of speech but "not the right to be heard the way I want to be heard." Instead of listening to "the overwhelming number of emails" he's received on #BLM and defunding the police, he's giving excuses for why it shouldn't happen. 
 
 Cross Fit CEO calls protests Floyd-19 on twitter [tweet](https://twitter.com/crossfitceo/status/1269404726581288960?s=21)
+
+San Jose mayor, Sam Liccardo, pushes to increase funding for police rather than defunding.
+
+Boba Guys backs their racist managers and policies and gave a non-apology on instagram that has now been taken down.
+
+San Diego city council approved the budget with 20+ million extra going towards SDPD despite 450+ callers asking them to reject the budget.
+
+Seattle uses tear gas a couple days after it was "banned"
