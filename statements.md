@@ -35,6 +35,8 @@ ESPN's Maria Taylor [comments on tv](https://twitter.com/iam_johnw/status/126892
 
 Cops TV show cancelled
 
+Bon Appetit, after Adam Rapoport's resignation, is committed to highlighting BIPOC voices and seeking new BIPOC EIC.
+
 ### opposing, silence, or lipservice
 
 San Jose mayor, Sam Liccardo in response to peaceful protests _[link](https://medium.com/@SamLiccardo/i-cant-breathe-17684b68309f)_
@@ -96,3 +98,5 @@ Boba Guys backs their racist managers and policies and gave a non-apology on ins
 San Diego city council approved the budget with 20+ million extra going towards SDPD despite 450+ callers asking them to reject the budget.
 
 Seattle uses tear gas a couple days after it was "banned"
+
+@rusabnb, an instagram influencer, uses #BLM march as a backdrop to an instagram post. She says there is something wrong with the society because she received attacks on her posts.
