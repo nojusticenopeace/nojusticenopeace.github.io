@@ -37,6 +37,9 @@ Cops TV show cancelled
 
 Bon Appetit, after Adam Rapoport's resignation, is committed to highlighting BIPOC voices and seeking new BIPOC EIC.
 
+Adidas: 
+> In a statement the company said it will increase the funding for programs that support, empower and elevate the Black community to 20 million dollars over the next four years in the US. Initiatives include: adidas Legacy, a grassroots basketball platform built for underserved communities; the adidas School for Experiential Education in Design that creates career paths in footwear design; Honoring Black Excellence, an initiative honoring and supporting the Black community through sport.
+
 ### opposing, silence, or lipservice
 
 San Jose mayor, Sam Liccardo in response to peaceful protests _[link](https://medium.com/@SamLiccardo/i-cant-breathe-17684b68309f)_
