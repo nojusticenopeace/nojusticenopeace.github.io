@@ -55,6 +55,8 @@ Santa Clara county officer holders list _[(link)](https://www.sccgov.org/sites/r
 
 what to do _[(link)](https://docs.google.com/document/d/1zh6reFJWkZRGBL5iIezTfA2tkKBB3X9JcMh2QYT8tWk/mobilebasic)_
 
+Progressive Shopper extension on Chrome tells you the political contributions of a company.
+
 ### protesting
 
 Bay Area protest calendar _[(link)](https://www.actiontogetherbayarea.org/calendar)
